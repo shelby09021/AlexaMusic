@@ -108,32 +108,32 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/d593c6064ff7657d0c714.jpg"
+    "START_IMG_URL", "https://graph.org/file/40c5127b025a3956f6425-210a5f197664b1a194.jpg"
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "assets/Ping.jpeg",
+    "https://graph.org/file/40c5127b025a3956f6425-210a5f197664b1a194.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "assets/Playlist.jpeg",
+    "https://graph.org/file/40c5127b025a3956f6425-210a5f197664b1a194.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "assets/Global.jpeg",
+    "https://graph.org/file/40c5127b025a3956f6425-210a5f197664b1a194.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "assets/Stats.jpeg",
+    "https://graph.org/file/40c5127b025a3956f6425-210a5f197664b1a194.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "assets/Audio.jpeg",
+    "https://graph.org/file/40c5127b025a3956f6425-210a5f197664b1a194.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
@@ -143,12 +143,12 @@ TELEGRAM_VIDEO_URL = getenv(
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "assets/Stream.jpeg",
+    "https://graph.org/file/40c5127b025a3956f6425-210a5f197664b1a194.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "assets/Soundcloud.jpeg",
+    "https://graph.org/file/40c5127b025a3956f6425-210a5f197664b1a194.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
